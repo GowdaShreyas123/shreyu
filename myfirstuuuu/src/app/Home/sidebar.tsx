@@ -13,7 +13,7 @@ const Sidebar = () => {
           <li className="p-4 hover:bg-gray-700">Dashboard</li>
           <li className="p-4 hover:bg-gray-700">Profile</li>
           <li className="p-4 hover:bg-gray-700">Settings</li>
-          <li className="p-4 hover:bg-gray-700">Logout</li>
+          {/* <li className="p-4 hover:bg-gray-700">Logout</li> */}
         </ul>
       </nav>
     </div> 
