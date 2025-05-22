@@ -16,7 +16,7 @@ const Sidebar = () => {
           <li className="p-4 hover:bg-gray-700">Logout</li>
         </ul>
       </nav>
-    </div>
+    </div> 
   );
 };
 
